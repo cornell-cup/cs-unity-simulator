@@ -29,7 +29,7 @@ This instruction is for **cs-minibot-platform web GUI**.
 
 6. Unity Console should display "Connected" (Make sure Unity is running before running web GUI)
 
-7. _Disclaimer_: Unity pauses whenever you are not focused on the Unity window. Therefore, it's suggested to open Unity and web GUI on different computers.
+7. **_Disclaimer_**: Unity pauses whenever you are not focused on the Unity window. Therefore, it's suggested to open Unity and web GUI on different computers.
 
 8. Have Fun Drive S a f e
 
